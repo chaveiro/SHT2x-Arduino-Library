@@ -4,6 +4,6 @@ To download. click the DOWNLOADS button in the top right corner, rename the unco
 
 Place the SHT2x library folder your <arduinosketchfolder>/libraries/ folder. You may need to create the libraries subfolder if its your first library. Restart the IDE.
 
-Get latest version at https://github.com/chaveiro
+Get latest version at https://github.com/chaveiro/SHT2x-Arduino-Library
     
 Copyright (C) 2015  Nuno Chaveiro  nchaveiro[at]gmail.com  Lisbon, Portugal
